@@ -1,3 +1,6 @@
+There are many problems with the original code, but it can now run correctly
+
+
 # DeepConcolic (Concolic Testing for Deep Neural Networks)
 
 ![alt text](images/deepconcolic-logo2.png)
